@@ -80,17 +80,12 @@ cd ipl-data-analysis
 
 Contributions are welcome to extend analytics, add new visualizations, or improve pipeline efficiency.
 
----
-
-## License
-
-This project is open-sourced under the MIT License.
 
 ---
 
 ## Contact
 
-For any queries or help, please open an issue or contact [your-email@example.com].
+For any queries or help, please open an issue or contact abuulhassanrao21@gmail.com
 
 ---
 
