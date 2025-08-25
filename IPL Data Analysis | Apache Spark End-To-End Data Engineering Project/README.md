@@ -7,8 +7,9 @@ This project demonstrates an end-to-end data engineering and analytics pipeline 
 ---
 
 ## Architecture Diagram
+<img width="1400" height="788" alt="IPLDataAnalysis" src="https://github.com/user-attachments/assets/d74834d3-8a58-4b2f-975f-bc94093488de" />
 
-![IPL Data Engineering Architecture](./IPL-Data-Analysis.jpg)
+
 
 The diagram illustrates the workflow:
 
